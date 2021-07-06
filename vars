@@ -1,0 +1,6 @@
+set_var EASYRSA_REQ_COUNTRY “CN” //根据自己情况更改
+set_var EASYRSA_REQ_PROVINCE “SH”  //省份
+set_var EASYRSA_REQ_CITY “Shanghai” //城市
+set_var EASYRSA_REQ_ORG “DMSD Certificate”  //自己起个名字
+set_var EASYRSA_REQ_EMAIL “glntgb@163.com”
+set_var EASYRSA_REQ_OU “Dynamic Times”
